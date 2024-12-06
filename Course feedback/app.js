@@ -4,7 +4,7 @@ import * as feedbacks from "./feedbacks.js";
 import * as courseController from "./courseController.js";
 
 
-const eta = new Eta({ views: `${Deno.cwd()}/templates/` });
+const eta = new Eta({ views: "templates/" });
 
 const app = new Hono();
 
