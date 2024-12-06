@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>COURSE</title>
-</head>
-<body>
-    <p><%= it.course.course %></p>
-</body>
-</html>
